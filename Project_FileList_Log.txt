@@ -1,0 +1,15 @@
+﻿
+FullName                                                                            
+--------                                                                            
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\FixPermissions_SendCOMM.ps1      
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\FixPermissions_SendCOMM_Clean.ps1
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\LICENSE                          
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\netlify.toml.toml                
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\PowerShell.ps1                   
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\Project_FileList_Log.txt         
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\README.md                        
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\.github\workflows\sentinel-ci.yml
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\public\index.html                
+C:\Users\codyn\OneDrive\Desktop\sendcomm-nunncloud\src\index.js                     
+
+

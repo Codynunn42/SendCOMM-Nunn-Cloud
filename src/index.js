@@ -1,0 +1,1 @@
+console.log('SendCOMM OS Initialized');
