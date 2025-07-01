@@ -1,32 +1,33 @@
 ﻿{
-    "name":  "sendcomm-nunn-cloud",
-    "version":  "1.0.0",
-    "private":  true,
-    "scripts":  {
-                    "eject":  "react-scripts eject",
-                    "test":  "react-scripts test",
-                    "build":  "react-scripts build",
-                    "start":  "react-scripts start"
-                },
-    "dependencies":  {
-                         "react":  "^18.2.0",
-                         "react-dom":  "^18.2.0",
-                         "react-scripts":  "^0.0.0"
-                     },
-    "browserslist":  {
-                         "production":  [
-                                            "\u003e0.2%",
-                                            "not dead",
-                                            "not op_mini all"
-                                        ],
-                         "development":  [
-                                             "last 1 chrome version",
-                                             "last 1 firefox version",
-                                             "last 1 safari version"
-                                         ]
-                     },
-    "engines":  {
-                    "node":  "18.18.2",
-                    "npm":  "\u003e=9.0.0"
-                }
+    "name": "@amzn/sendcomm-nunn-cloud",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "eject": "react-scripts eject",
+        "test": "react-scripts test",
+        "build": "react-scripts build",
+        "start": "react-scripts start"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "^0.0.0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "engines": {
+        "node": "18.18.2",
+        "npm": ">=9.0.0"
+    }
 }
+
